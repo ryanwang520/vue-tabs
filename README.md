@@ -2,16 +2,18 @@
 
 An easy tab component for for Vue.js
 
+https://github.com/ryanwang520/vue-tabs
+
 ## Installation
 
 ```
-npm install @baoshishu/vue-tabs
+npm install @ryanwang520/vue-tabs
 ```
 
 or
 
 ```
-yarn add @baoshishu/vue-tabs
+yarn add @ryanwang520/vue-tabs
 ```
 
 ## TODO

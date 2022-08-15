@@ -1,5 +1,5 @@
 {
-  "name": "@baoshishu/vue-tabs",
+  "name": "@ryanwang520/vue-tabs",
   "version": "0.1.7",
   "main": "dist/vue-tabs.umd.js",
   "scripts": {
