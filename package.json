@@ -1,6 +1,6 @@
 {
   "name": "@ryanwang520/vue-tabs",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "main": "dist/vue-tabs.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve",
